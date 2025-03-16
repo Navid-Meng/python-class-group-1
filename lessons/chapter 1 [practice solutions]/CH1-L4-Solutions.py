@@ -14,7 +14,8 @@ fav_color = input("Enter your favorite number: ")
 print(f"Your favorite color is {fav_color}. That's awesome.")
 
 '''
-    2. Write a program that asks the user for their full name and prints it.
+    2. Write a program that asks the user for their full name 
+    and prints it.
 '''
 
 full_name = input("Enter your full name: ")
