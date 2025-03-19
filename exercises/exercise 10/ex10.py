@@ -9,4 +9,4 @@ first_number, second_number = second_number, first_number
 
 print("\nAfter swapping: ")
 print(f"First number = {first_number}")
-print(f"Secondd number = {second_number}")
+print(f"Second number = {second_number}")
