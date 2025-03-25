@@ -1,7 +1,7 @@
-# remove(item), pop(index), clear()
+carts = ["Bluetooth Adapter"]
 
-fruits = ["apple", "banana", "grape"]
-
-fruits.clear()
-
-print(fruits)
+months = (
+    "January", "February", "March", 
+    "April", "May", "June", 
+    "July", "August", 
+    "September", "October", "November", "December")
